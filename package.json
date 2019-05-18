@@ -1,0 +1,27 @@
+{
+  "name": "@zhaoyao91/async-sleep",
+  "version": "0.0.0",
+  "description": "Await some time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "keywords": [
+    "zhaoyao91",
+    "async",
+    "sleep"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "repository": "github.com/zhaoyao91-npm/async-sleep",
+  "author": {
+    "name": "zhaoyao91",
+    "email": "zhaoyao91@aliyun.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.17.1",
+    "tap": "^13.1.9"
+  }
+}
