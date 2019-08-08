@@ -11,7 +11,7 @@ npm i @zhaoyao91/async-sleep
 ## Usage
 
 ```js
-const sleep = require("@async-sleep/async-sleep");
+const sleep = require("@zhaoyao91/async-sleep");
 
 await sleep(1000); // sleep 1000 milliseconds
 ```
